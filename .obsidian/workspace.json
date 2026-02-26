@@ -1,0 +1,210 @@
+{
+  "main": {
+    "id": "b0b8de2a4e6f24f7",
+    "type": "split",
+    "children": [
+      {
+        "id": "db11829eabff5529",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d978e7e9a514a593",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Domain names in Dynadot.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": 7.44,
+                  "zoom": 0
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Domain names in Dynadot"
+            }
+          },
+          {
+            "id": "3dcc9c493ba235a6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Domain names in Dynadot.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Domain names in Dynadot"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "185511281e72e441",
+    "type": "split",
+    "children": [
+      {
+        "id": "8910f63cc1383dda",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "749c716242a951e4",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "99cc1a15e067dde0",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "a9df712ebd04b7a5",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "6686e02532250b0e",
+    "type": "split",
+    "children": [
+      {
+        "id": "f9efc784a43a04d2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e6178b0c8a069384",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Domain names in Dynadot.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Domain names in Dynadot"
+            }
+          },
+          {
+            "id": "bf2fe052d7810c2b",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Domain names in Dynadot.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Domain names in Dynadot"
+            }
+          },
+          {
+            "id": "9f59094a36c7fad2",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "f8579839f218017f",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "c0c3e9311f478092",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Domain names in Dynadot.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Domain names in Dynadot"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "3dcc9c493ba235a6",
+  "lastOpenFiles": [
+    "Domain names in Dynadot.canvas",
+    "Domain names in Dynadot.md",
+    "Untitled 1.canvas"
+  ]
+}
